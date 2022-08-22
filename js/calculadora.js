@@ -18,7 +18,7 @@ function calcularAmor(){
     }
     
     // calcula e retorna o resultado
-    randInt = Math.floor(Math.random() * (100 - 85) ) + 85;
+    randInt = Math.floor(Math.random() * (100 - 75) ) + 75;
 
     count = 0;
 
